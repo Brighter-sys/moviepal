@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730155615341,
+  "timestamp": 1730156589234,
   "index": "https://brighter-sys.github.io/moviepal/index.html",
   "assetGroups": [
     {
@@ -35,7 +35,7 @@
         "https://brighter-sys.github.io/moviepal/assets/img/icon-512x512.png",
         "https://brighter-sys.github.io/moviepal/assets/img/icon-72x72.png",
         "https://brighter-sys.github.io/moviepal/assets/img/icon-96x96.png",
-        "https://brighter-sys.github.io/moviepal/assets/img/logo.webp",
+        "https://brighter-sys.github.io/moviepal/assets/img/logo.png",
         "https://brighter-sys.github.io/moviepal/assets/svg/github.svg",
         "https://brighter-sys.github.io/moviepal/assets/svg/twitter.svg"
       ],
@@ -70,11 +70,11 @@
     "https://brighter-sys.github.io/moviepal/assets/img/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://brighter-sys.github.io/moviepal/assets/img/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://brighter-sys.github.io/moviepal/assets/img/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://brighter-sys.github.io/moviepal/assets/img/logo.webp": "eb545965e2ddacdae374bf765beaca908d57f2e3",
+    "https://brighter-sys.github.io/moviepal/assets/img/logo.png": "3a39bf3c3751b9e79b82dfc432b2b006d7a8ddc8",
     "https://brighter-sys.github.io/moviepal/assets/svg/github.svg": "29af3297f4216d42d7f6225cafaf77867c016862",
     "https://brighter-sys.github.io/moviepal/assets/svg/twitter.svg": "4995eac2eb0287f20ac519596fbb8cd528619918",
     "https://brighter-sys.github.io/moviepal/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://brighter-sys.github.io/moviepal/index.html": "9a5deaf2c41bc953b88ed8b00e70e45f4265763c",
+    "https://brighter-sys.github.io/moviepal/index.html": "44f6ca5ea436a929c72c1b53959df401b8490845",
     "https://brighter-sys.github.io/moviepal/manifest.webmanifest": "ccc39e7a88139a590429d0bf3585fbfa2c5ab9cd"
   },
   "navigationUrls": [
