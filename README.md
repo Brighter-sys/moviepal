@@ -1,13 +1,13 @@
-# Angular Movies | TV Shows
+# MOVIE PAL
 
 ## 🚀 Getting Started
 
-Angular Movies | TV Shows is a simple web app that consumes The Movie DB API, it can show you interesting data about popular movies and series.
+Movie Pal is a simple web app that consumes The Movie DB API, it can show you interesting data about popular movies and series.
 
 See **Installing** for steps to make it work in your local environment.
 ## 💻 Live Demo
 
-✔ Github Pages: https://jancobh.github.io/Angular-Movies/
+✔ Github Pages: https://brighter-sys.github.io/moviepal/
 
 ## 📋 Prerequisites
 
@@ -18,7 +18,7 @@ See **Installing** for steps to make it work in your local environment.
 ## 🔧 Installing
 
 ```bash
-git clone https://github.com/JancoBH/Angular-Movies.git
+git clone https://github.com/Brighter-sys/moviepal.git
 cd Angular-Movies
 npm install
 ng serve and enjoy it
@@ -39,4 +39,4 @@ You can check <a href="https://angular.dev/tools/cli/deployment#automatic-deploy
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-🧑‍💻 Developed by [JancoBH](https://github.com/JancoBH)
+
