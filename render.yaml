@@ -3,7 +3,7 @@ services:
     name: moviepal
     env: static
     buildCommand: npm install && npm run build
-    staticPublishPath: ./dist/moviepal
+    staticPublishPath: ./dist/angular-movies
     routes:
       - type: rewrite
         source: /*
