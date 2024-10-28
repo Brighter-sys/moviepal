@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730155155459,
+  "timestamp": 1730155615341,
   "index": "https://brighter-sys.github.io/moviepal/index.html",
   "assetGroups": [
     {
@@ -74,8 +74,8 @@
     "https://brighter-sys.github.io/moviepal/assets/svg/github.svg": "29af3297f4216d42d7f6225cafaf77867c016862",
     "https://brighter-sys.github.io/moviepal/assets/svg/twitter.svg": "4995eac2eb0287f20ac519596fbb8cd528619918",
     "https://brighter-sys.github.io/moviepal/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://brighter-sys.github.io/moviepal/index.html": "79073b8f8a5b6777ab73586e5c1781dc9ff09ace",
-    "https://brighter-sys.github.io/moviepal/manifest.webmanifest": "3a70177f59ce81a84a7476fd1010133abdaefa00"
+    "https://brighter-sys.github.io/moviepal/index.html": "9a5deaf2c41bc953b88ed8b00e70e45f4265763c",
+    "https://brighter-sys.github.io/moviepal/manifest.webmanifest": "ccc39e7a88139a590429d0bf3585fbfa2c5ab9cd"
   },
   "navigationUrls": [
     {
